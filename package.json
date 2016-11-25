@@ -1,0 +1,11 @@
+{
+  "name": "MapReduce",
+  "version": "0.1.0",
+  "description": "My first project",
+  "main": "serveur.js",
+  
+  "dependencies": {
+    "mongodb": "~2.0"
+  },
+  "author": "Charles Cousyn"
+}
